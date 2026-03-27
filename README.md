@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moesanni
 - 👀 I’m interested in saleforce
-- 🌱 I’m currently learning autorabit
+- 🌱 I’m currently studying for my salesforce agentforce specialist
 - 💞️ I’m looking to collaborate on continious integration and Continious Development
 - 📫 How to reach me moesanni28@gmail.com
 - Show me the money 
